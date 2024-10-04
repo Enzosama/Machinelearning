@@ -1,0 +1,64 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-fba0b8e7-4f2d-4bcf-a435-1b525e528e30
+Extension host agent listening on /tmp/code-fba0b8e7-4f2d-4bcf-a435-1b525e528e30
+
+[16:24:45] 
+
+
+
+
+[16:24:46] Extension host agent started.
+[16:24:46] [<unknown>][ed76ad8d][ManagementConnection] New connection established.
+[16:24:46] [<unknown>][63d4c27e][ExtensionHostConnection] New connection established.
+[16:24:46] [<unknown>][63d4c27e][ExtensionHostConnection] <2690> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[16:29:46] New EH opened, aborting shutdown
+[17:15:29] Getting Manifest... ms-azuretools.vscode-docker
+[17:15:29] Installing extension: ms-azuretools.vscode-docker {
+  installPreReleaseVersion: false,
+  context: { clientTargetPlatform: 'win32-x64' },
+  installOnlyNewlyAddedFromExtensionPack: true,
+  isApplicationScoped: false,
+  profileLocation: $ {
+    scheme: 'file',
+    authority: '',
+    path: '/teamspace/studios/this_studio/.vscode-server/extensions/extensions.json',
+    query: '',
+    fragment: '',
+    _formatted: 'file:///teamspace/studios/this_studio/.vscode-server/extensions/extensions.json',
+    _fsPath: '/teamspace/studios/this_studio/.vscode-server/extensions/extensions.json'
+  },
+  productVersion: { version: '1.93.1', date: '2024-09-11T17:20:05.685Z' }
+}
+[17:15:31] Extension signature verification result for ms-azuretools.vscode-docker: Success. Executed: true. Duration: 797ms.
+[17:15:31] Extracted extension to file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-azuretools.vscode-docker-1.29.3: ms-azuretools.vscode-docker
+[17:15:31] Renamed to /teamspace/studios/this_studio/.vscode-server/extensions/ms-azuretools.vscode-docker-1.29.3
+[17:15:31] Extension installed successfully: ms-azuretools.vscode-docker file:///teamspace/studios/this_studio/.vscode-server/extensions/extensions.json
+[18:16:56] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+[18:48:33] Getting Manifest... mechatroner.rainbow-csv
+[18:48:33] Installing extension: mechatroner.rainbow-csv {
+  isMachineScoped: false,
+  installOnlyNewlyAddedFromExtensionPack: true,
+  isApplicationScoped: false,
+  profileLocation: $ {
+    scheme: 'file',
+    authority: '',
+    path: '/teamspace/studios/this_studio/.vscode-server/extensions/extensions.json',
+    query: '',
+    fragment: '',
+    _formatted: 'file:///teamspace/studios/this_studio/.vscode-server/extensions/extensions.json',
+    _fsPath: '/teamspace/studios/this_studio/.vscode-server/extensions/extensions.json'
+  },
+  productVersion: { version: '1.93.1', date: '2024-09-11T17:20:05.685Z' }
+}
+[18:48:34] Extension signature verification result for mechatroner.rainbow-csv: Success. Executed: true. Duration: 533ms.
+[18:48:34] Extracted extension to file:///teamspace/studios/this_studio/.vscode-server/extensions/mechatroner.rainbow-csv-3.12.0: mechatroner.rainbow-csv
+[18:48:34] Renamed to /teamspace/studios/this_studio/.vscode-server/extensions/mechatroner.rainbow-csv-3.12.0
+[18:48:34] Extension installed successfully: mechatroner.rainbow-csv file:///teamspace/studios/this_studio/.vscode-server/extensions/extensions.json
+[18:48:35] [File Watcher (parcel)] Unexpected error stopping watcher: Unable to remove watcher: Invalid argument (path: /home/zeus/miniconda3/envs/cloudspace/lib/python3.10)

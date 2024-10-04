@@ -1,0 +1,6 @@
+Listening on 127.0.0.1:50065
+[2024-10-03 18:59:02] info Disposed of connection to running server.
+looking for token 2840bec8-8e5e-49d7-9347-f2fff1adf6f3, got Some("2840bec8-8e5e-49d7-9347-f2fff1adf6f3")
+[2024-10-03 18:59:02] info Checking /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/log.txt and /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/pid.txt for a running server...
+[2024-10-03 18:59:02] info Found running server (pid=2645)
+[2024-10-03 18:59:14] info Disposed of connection to running server.

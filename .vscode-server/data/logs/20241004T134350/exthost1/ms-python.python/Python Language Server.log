@@ -1,0 +1,34 @@
+2024-10-04 13:44:06.408 [info] [Info  - 1:44:06 PM] (5085) Server root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-04 13:44:06.413 [info] [Info  - 1:44:06 PM] (5085) Pylance language server 2024.9.2 (pyright version 1.1.378, commit ce64adc1) starting
+2024-10-04 13:44:06.413 [info] [Info  - 1:44:06 PM] (5085) Starting service instance "this_studio"
+2024-10-04 13:44:06.447 [info] [Info  - 1:44:06 PM] (5085) Setting environmentName for service "this_studio": "3.10.10 (cloudspace conda)"
+2024-10-04 13:44:06.447 [info] [Info  - 1:44:06 PM] (5085) Setting pythonPath for service "this_studio": "/home/zeus/miniconda3/envs/cloudspace/bin/python"
+2024-10-04 13:44:06.447 [info] [Info  - 1:44:06 PM] (5085) No include entries specified; assuming /teamspace/studios/this_studio
+2024-10-04 13:44:06.448 [info] [Info  - 1:44:06 PM] (5085) Auto-excluding **/node_modules
+2024-10-04 13:44:06.448 [info] [Info  - 1:44:06 PM] (5085) Auto-excluding **/__pycache__
+2024-10-04 13:44:06.448 [info] [Info  - 1:44:06 PM] (5085) Auto-excluding **/.*
+2024-10-04 13:44:06.469 [info] [Info  - 1:44:06 PM] (5085) Assuming Python version 3.10.10.final.0
+2024-10-04 13:44:06.974 [info] [Info  - 1:44:06 PM] (5085) Found 2 source files
+2024-10-04 13:44:07.008 [info] [Info  - 1:44:07 PM] (5085) Background analysis(1) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-04 13:44:07.009 [info] [Info  - 1:44:07 PM] (5085) Background analysis(1) started
+2024-10-04 13:44:07.680 [info] [Info  - 1:44:07 PM] (5085) Indexer background runner(2) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist (index)
+2024-10-04 13:44:07.680 [info] [Info  - 1:44:07 PM] (5085) Indexing(2) started
+2024-10-04 13:44:09.564 [info] [Info  - 1:44:09 PM] (5085) scanned(2) 404 files over 1 exec env
+2024-10-04 13:44:10.333 [info] [Info  - 1:44:10 PM] (5085) indexed(2) 323 files over 1 exec env
+2024-10-04 13:44:10.641 [info] [Info  - 1:44:10 PM] (5085) Indexing finished(2).
+2024-10-04 13:44:13.115 [info] [Info  - 1:44:13 PM] (5085) [BG(1)] Long operation: checking: file:///teamspace/studios/this_studio/main.py (5100ms)
+2024-10-04 13:44:13.115 [info] [Info  - 1:44:13 PM] (5085) [BG(1)] Long operation: analyzing: file:///teamspace/studios/this_studio/main.py (5589ms)
+2024-10-04 13:44:17.232 [info] (Client) The existing extension didn't exit within 10 seconds. New instance will start, but you might encounter issues.
+2024-10-04 13:44:17.232 [info] (Client) Pylance async client (2024.9.2) started with python extension (2024.14.1)
+2024-10-04 13:52:18.162 [info] [Info  - 1:52:18 PM] (5085) Starting service instance "<default>"
+2024-10-04 13:52:18.183 [info] [Info  - 1:52:18 PM] (5085) Setting environmentName for service "<default>": "3.10.10 (cloudspace conda)"
+2024-10-04 13:52:18.184 [info] [Info  - 1:52:18 PM] (5085) Setting pythonPath for service "<default>": "/home/zeus/miniconda3/envs/cloudspace/bin/python"
+2024-10-04 13:52:18.184 [info] [Info  - 1:52:18 PM] (5085) No include entries specified; assuming /<default workspace root>
+2024-10-04 13:52:18.185 [info] [Info  - 1:52:18 PM] (5085) Auto-excluding **/node_modules
+2024-10-04 13:52:18.185 [info] [Info  - 1:52:18 PM] (5085) Auto-excluding **/__pycache__
+2024-10-04 13:52:18.186 [info] [Info  - 1:52:18 PM] (5085) Auto-excluding **/.*
+2024-10-04 13:52:18.207 [info] [Info  - 1:52:18 PM] (5085) Assuming Python version 3.10.10.final.0
+2024-10-04 13:52:18.335 [info] [Error - 1:52:18 PM] (5085) File or directory "/<default workspace root>" does not exist.
+2024-10-04 13:52:18.336 [info] [Info  - 1:52:18 PM] (5085) No source files found.
+2024-10-04 13:52:18.610 [info] [Info  - 1:52:18 PM] (5085) Background analysis(3) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-04 13:52:18.611 [info] [Info  - 1:52:18 PM] (5085) Background analysis(3) started

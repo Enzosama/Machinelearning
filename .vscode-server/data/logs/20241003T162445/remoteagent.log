@@ -1,0 +1,38 @@
+2024-10-03 16:24:46.032 [info] 
+
+
+
+
+2024-10-03 16:24:46.119 [info] Extension host agent started.
+2024-10-03 16:24:46.667 [info] [<unknown>][ed76ad8d][ManagementConnection] New connection established.
+2024-10-03 16:24:46.670 [info] [<unknown>][63d4c27e][ExtensionHostConnection] New connection established.
+2024-10-03 16:24:46.771 [info] [<unknown>][63d4c27e][ExtensionHostConnection] <2690> Launched Extension Host Process.
+2024-10-03 16:29:46.121 [info] New EH opened, aborting shutdown
+2024-10-03 17:15:29.905 [info] Getting Manifest... ms-azuretools.vscode-docker
+2024-10-03 17:15:29.928 [info] Installing extension: ms-azuretools.vscode-docker {"installPreReleaseVersion":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/teamspace/studios/this_studio/.vscode-server/extensions/extensions.json","external":"file:///teamspace/studios/this_studio/.vscode-server/extensions/extensions.json","path":"/teamspace/studios/this_studio/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"}}
+2024-10-03 17:15:31.203 [info] Extension signature verification result for ms-azuretools.vscode-docker: Success. Executed: true. Duration: 797ms.
+2024-10-03 17:15:31.330 [info] Extracted extension to file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-azuretools.vscode-docker-1.29.3: ms-azuretools.vscode-docker
+2024-10-03 17:15:31.338 [info] Renamed to /teamspace/studios/this_studio/.vscode-server/extensions/ms-azuretools.vscode-docker-1.29.3
+2024-10-03 17:15:31.360 [info] Extension installed successfully: ms-azuretools.vscode-docker file:///teamspace/studios/this_studio/.vscode-server/extensions/extensions.json
+2024-10-03 18:16:56.651 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-10-03 18:48:33.475 [info] Getting Manifest... mechatroner.rainbow-csv
+2024-10-03 18:48:33.493 [info] Installing extension: mechatroner.rainbow-csv {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/teamspace/studios/this_studio/.vscode-server/extensions/extensions.json","external":"file:///teamspace/studios/this_studio/.vscode-server/extensions/extensions.json","path":"/teamspace/studios/this_studio/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"}}
+2024-10-03 18:48:34.227 [info] Extension signature verification result for mechatroner.rainbow-csv: Success. Executed: true. Duration: 533ms.
+2024-10-03 18:48:34.325 [info] Extracted extension to file:///teamspace/studios/this_studio/.vscode-server/extensions/mechatroner.rainbow-csv-3.12.0: mechatroner.rainbow-csv
+2024-10-03 18:48:34.332 [info] Renamed to /teamspace/studios/this_studio/.vscode-server/extensions/mechatroner.rainbow-csv-3.12.0
+2024-10-03 18:48:34.354 [info] Extension installed successfully: mechatroner.rainbow-csv file:///teamspace/studios/this_studio/.vscode-server/extensions/extensions.json
+2024-10-03 18:48:35.071 [error] [File Watcher (parcel)] Unexpected error stopping watcher: Unable to remove watcher: Invalid argument (path: /home/zeus/miniconda3/envs/cloudspace/lib/python3.10)
+2024-10-03 18:57:49.527 [info] [<unknown>][ed76ad8d][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-10-03 18:57:49.530 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/server/node/server.main.js:198:6390)
+    at process.emit (node:events:531:35)
+2024-10-03 18:59:03.778 [info] [<unknown>][ed76ad8d][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-10-03 18:59:03.780 [info] [<unknown>][ee126043][ExtensionHostConnection] New connection established.
+2024-10-03 18:59:03.781 [info] [<unknown>][36f3c0cb][ManagementConnection] New connection established.
+2024-10-03 18:59:03.785 [info] [<unknown>][ee126043][ExtensionHostConnection] <30582> Launched Extension Host Process.
+2024-10-03 18:59:13.618 [info] [<unknown>][36f3c0cb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-03 18:59:13.675 [info] [<unknown>][ee126043][ExtensionHostConnection] <30582> Extension Host Process exited with code: 0, signal: null.
+2024-10-03 19:04:03.840 [info] [<unknown>][ed76ad8d][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2024-10-03 19:04:03.939 [info] [<unknown>][63d4c27e][ExtensionHostConnection] <2690> Extension Host Process exited with code: 0, signal: null.
+2024-10-03 19:04:03.940 [info] Last EH closed, waiting before shutting down
+2024-10-03 19:09:03.941 [info] Last EH closed, shutting down

@@ -1,0 +1,37 @@
+2024-10-03 16:26:28.130 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-10-03 16:26:28.130 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-10-03 16:26:28.130 [info] Experiment 'pythonTestAdapter' is active
+2024-10-03 16:26:28.130 [warning] Dir "/teamspace/studios/this_studio/.pixi/envs" is not watchable (directory does not exist)
+2024-10-03 16:26:28.191 [info] Default formatter is set to null for workspace /teamspace/studios/this_studio
+2024-10-03 16:26:28.501 [info] Python interpreter path: /home/zeus/miniconda3/envs/cloudspace/bin/python
+2024-10-03 16:26:28.909 [info] > pyenv which python
+2024-10-03 16:26:28.909 [info] cwd: .
+2024-10-03 16:26:31.253 [info] Starting Pylance language server.
+2024-10-03 16:26:34.213 [info] > conda info --json
+2024-10-03 16:31:00.770 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/main.py
+2024-10-03 16:40:43.659 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/main.py
+2024-10-03 16:48:49.489 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/main.py
+2024-10-03 16:49:55.182 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/main.py
+2024-10-03 17:20:31.940 [info] CreateEnv Trigger - Skipping for /teamspace/studios/this_studio/app.py
+2024-10-03 17:20:32.834 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/app.py
+2024-10-03 17:20:33.298 [info] Send text to terminal: /home/zeus/miniconda3/envs/cloudspace/bin/python /teamspace/studios/this_studio/app.py
+2024-10-03 17:25:43.640 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/app.py
+2024-10-03 18:22:29.386 [info] Send text to terminal: /home/zeus/miniconda3/envs/cloudspace/bin/python /teamspace/studios/this_studio/main.py
+2024-10-03 18:22:29.406 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/main.py
+2024-10-03 18:23:19.795 [info] Send text to terminal: /home/zeus/miniconda3/envs/cloudspace/bin/python /teamspace/studios/this_studio/main.py
+2024-10-03 18:23:19.818 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/main.py
+2024-10-03 18:23:55.628 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/main.py
+2024-10-03 18:26:18.265 [info] Send text to terminal: /home/zeus/miniconda3/envs/cloudspace/bin/python /teamspace/studios/this_studio/main.py
+2024-10-03 18:26:18.282 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/main.py
+2024-10-03 18:28:44.367 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/main.py
+2024-10-03 18:28:44.807 [info] Send text to terminal: /home/zeus/miniconda3/envs/cloudspace/bin/python /teamspace/studios/this_studio/main.py
+2024-10-03 18:29:26.549 [info] Send text to terminal: /home/zeus/miniconda3/envs/cloudspace/bin/python /teamspace/studios/this_studio/main.py
+2024-10-03 18:29:26.563 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/main.py
+2024-10-03 18:33:28.608 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/test_chunks.py
+2024-10-03 18:33:38.004 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/test_chunks.py
+2024-10-03 18:33:45.295 [info] Send text to terminal: /home/zeus/miniconda3/envs/cloudspace/bin/python /teamspace/studios/this_studio/test_chunks.py
+2024-10-03 18:33:45.318 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/test_chunks.py
+2024-10-03 18:55:35.667 [info] Send text to terminal: /home/zeus/miniconda3/envs/cloudspace/bin/python /teamspace/studios/this_studio/test_chunks.py
+2024-10-03 18:55:35.690 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/test_chunks.py
+2024-10-03 18:55:56.524 [info] Send text to terminal: /home/zeus/miniconda3/envs/cloudspace/bin/python /teamspace/studios/this_studio/test_chunks.py
+2024-10-03 18:55:56.542 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/test_chunks.py

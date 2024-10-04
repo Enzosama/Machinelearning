@@ -1,0 +1,6 @@
+2024-10-03 18:59:13.563 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-10-03 18:59:13.563 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-10-03 18:59:13.563 [info] Experiment 'pythonTestAdapter' is active
+2024-10-03 18:59:13.563 [warning] Dir "/teamspace/studios/this_studio/.pixi/envs" is not watchable (directory does not exist)
+2024-10-03 18:59:13.563 [info] Default formatter is set to null for workspace /teamspace/studios/this_studio
+2024-10-03 18:59:13.563 [info] Python interpreter path: /home/zeus/miniconda3/envs/cloudspace/bin/python

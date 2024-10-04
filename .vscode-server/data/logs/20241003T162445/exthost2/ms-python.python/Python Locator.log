@@ -1,0 +1,20 @@
+2024-10-03 18:59:13.563 [info] Starting Python Locator /teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.14.1-linux-x64/python-env-tools/bin/pet server
+2024-10-03 18:59:13.563 [info] Discovered manager: (Poetry) /commands/poetry
+2024-10-03 18:59:13.563 [info] Discovered manager: (Conda) /home/zeus/miniconda3/bin/conda
+2024-10-03 18:59:13.563 [info] Discovered env: /home/zeus/miniconda3/envs/cloudspace/bin/python
+2024-10-03 18:59:13.563 [info] Discovered env: /bin/python3
+2024-10-03 18:59:13.563 [info] Discovered env: /usr/bin/python3
+2024-10-03 18:59:13.563 [info] Locator Conda took 69.091549ms
+2024-10-03 18:59:13.563 [info] Locator Homebrew took 1.226546ms
+2024-10-03 18:59:13.563 [info] Locator LinuxGlobal took 83.514999ms
+2024-10-03 18:59:13.563 [info] Locator PipEnv took 11.575µs
+2024-10-03 18:59:13.563 [info] Locator Poetry took 91.696µs
+2024-10-03 18:59:13.563 [info] Locator PyEnv took 699.447µs
+2024-10-03 18:59:13.563 [info] Locator Venv took 12.198µs
+2024-10-03 18:59:13.563 [info] Locator VirtualEnv took 12.713µs
+2024-10-03 18:59:13.563 [info] Locator VirtualEnvWrapper took 28.908µs
+2024-10-03 18:59:13.563 [info] Locator GlobalVirtualEnvs took 233.697µs
+2024-10-03 18:59:13.563 [info] Locator Locators took 91.049882ms
+2024-10-03 18:59:13.563 [info] Locator Path took 156.672314ms
+2024-10-03 18:59:13.563 [info] Locator Workspaces took 55.367667ms
+2024-10-03 18:59:13.563 [info] Refresh completed in 156ms

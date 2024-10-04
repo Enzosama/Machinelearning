@@ -1,0 +1,7 @@
+Listening on 127.0.0.1:50035
+[2024-10-04 19:09:12] info Disposed of connection to running server.
+looking for token 4fc26f65-dae4-45c2-8c7a-121a42b10fa5, got Some("4fc26f65-dae4-45c2-8c7a-121a42b10fa5")
+[2024-10-04 19:09:13] info Checking /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-d78a74bcdfad14d5d3b1b782f87255d802b57511/log.txt and /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-d78a74bcdfad14d5d3b1b782f87255d802b57511/pid.txt for a running server...
+[2024-10-04 19:09:13] info Starting server...
+[2024-10-04 19:09:13] info Server started
+[2024-10-04 19:28:26] warn error handling call: NoAttachedServerError(NoAttachedServerError)

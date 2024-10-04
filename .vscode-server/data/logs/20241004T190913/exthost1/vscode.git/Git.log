@@ -1,0 +1,484 @@
+2024-10-04 19:09:22.934 [info] [main] Log level: Info
+2024-10-04 19:09:22.934 [info] [main] Validating found git in: "git"
+2024-10-04 19:09:22.934 [info] [main] Using git "2.42.0" from "git"
+2024-10-04 19:09:22.934 [info] [Model][doInitialScan] Initial repository scan started
+2024-10-04 19:09:22.934 [info] > git rev-parse --show-toplevel [11ms]
+2024-10-04 19:09:22.934 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:09:22.934 [info] > git rev-parse --show-toplevel [4ms]
+2024-10-04 19:09:22.934 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:09:22.934 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-04 19:09:22.934 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:09:22.934 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-04 19:09:22.934 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:09:22.934 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-04 19:09:22.934 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:09:22.934 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-04 19:09:22.934 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:09:22.936 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-04 19:09:22.936 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:09:22.940 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-04 19:09:22.940 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:09:22.943 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-04 19:09:22.943 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:09:22.947 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-04 19:09:22.947 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:09:22.952 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-04 19:09:22.952 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:09:22.956 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-04 19:09:22.956 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:09:22.961 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-04 19:09:22.961 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:09:22.965 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-04 19:09:22.965 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:09:22.969 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-04 19:09:22.969 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:09:22.971 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-10-04 19:15:34.582 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-04 19:15:34.583 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:15:36.688 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-04 19:15:36.689 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:25:43.950 [info] > git rev-parse --show-toplevel [6ms]
+2024-10-04 19:25:43.951 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:36:58.939 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-04 19:36:58.940 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:37:20.248 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-04 19:37:20.249 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:37:29.924 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-04 19:37:29.925 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 19:38:42.873 [info] > git rev-parse --show-toplevel [4ms]
+2024-10-04 19:38:42.874 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 20:03:08.317 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-04 20:03:08.318 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 20:03:10.316 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-04 20:03:10.316 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-04 20:03:54.749 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-04 20:03:54.754 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-10-04 20:03:54.763 [info] [Model][openRepository] Opened repository: /teamspace/studios/this_studio
+2024-10-04 20:03:54.770 [info] [Git][getRemotes] No remotes found in the git config file
+2024-10-04 20:03:54.771 [info] > git config --get commit.template [4ms]
+2024-10-04 20:03:54.771 [info] > git fetch [9ms]
+2024-10-04 20:03:54.778 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2024-10-04 20:03:54.778 [warning] [Git][getBranch] No such branch: master
+2024-10-04 20:03:54.785 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-10-04 20:03:54.786 [warning] [Git][getBranch] No such branch: master
+2024-10-04 20:03:54.786 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2024-10-04 20:03:54.787 [info] > git config --get commit.template [10ms]
+2024-10-04 20:03:54.789 [info] [Git][getRemotes] No remotes found in the git config file
+2024-10-04 20:03:54.790 [info] > git config --get commit.template [5ms]
+2024-10-04 20:03:54.792 [info] [Git][getRemotes] No remotes found in the git config file
+2024-10-04 20:03:54.792 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-10-04 20:03:54.792 [warning] [Git][getBranch] No such branch: master
+2024-10-04 20:03:54.798 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-10-04 20:03:54.799 [warning] [Git][getBranch] No such branch: master
+2024-10-04 20:03:54.805 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-10-04 20:03:55.530 [info] > git check-ignore -v -z --stdin [4ms]
+2024-10-04 20:03:55.555 [info] > git ls-files --stage -- /teamspace/studios/this_studio/.env [3ms]
+2024-10-04 20:03:55.579 [info] > git show --textconv :.env [29ms]
+2024-10-04 20:03:56.472 [info] > git ls-files --stage -- /teamspace/studios/this_studio/.env [2ms]
+2024-10-04 20:03:56.603 [info] > git status -z -uall [1802ms] (cancelled)
+2024-10-04 20:03:56.709 [info] > git show --textconv :.env [2ms]
+2024-10-04 20:06:54.802 [info] > git fetch [5ms]
+2024-10-04 20:06:54.809 [info] [Git][getRemotes] No remotes found in the git config file
+2024-10-04 20:06:54.810 [info] > git config --get commit.template [3ms]
+2024-10-04 20:06:54.811 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-04 20:06:54.812 [warning] [Git][getBranch] No such branch: master
+2024-10-04 20:06:54.820 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-10-04 20:06:55.907 [info] > git status -z -uall [1093ms] (cancelled)
+2024-10-04 20:06:56.902 [info] > git ls-files --stage -- /teamspace/studios/this_studio/.env [3ms]
+2024-10-04 20:06:57.144 [info] > git show --textconv :.env [5ms]
+2024-10-04 20:08:50.996 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [15ms]
+2024-10-04 20:08:51.002 [info] fatal: bad revision 'refs/heads/master'
+2024-10-04 20:08:51.003 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/master"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/master'\n"
+}
+2024-10-04 20:08:51.490 [info] > git check-ignore -v -z --stdin [5ms]
+2024-10-04 20:08:54.196 [info] > git check-ignore -v -z --stdin [6ms]
+2024-10-04 20:09:13.636 [info] > git add -A -- . [2ms]
+2024-10-04 20:09:13.636 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:13.702 [info] > git add -A -- . [2ms]
+2024-10-04 20:09:13.702 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:13.912 [info] > git add -A -- . [7ms]
+2024-10-04 20:09:13.912 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:14.377 [info] > git add -A -- . [2ms]
+2024-10-04 20:09:14.378 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:15.236 [info] > git add -A -- . [9ms]
+2024-10-04 20:09:15.236 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:16.499 [info] > git add -A -- . [8ms]
+2024-10-04 20:09:16.499 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:18.117 [info] > git add -A -- . [2ms]
+2024-10-04 20:09:18.118 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:18.192 [info] > git add -A -- . [16ms]
+2024-10-04 20:09:18.192 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:18.330 [info] > git add -A -- . [17ms]
+2024-10-04 20:09:18.330 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:18.418 [info] > git add -A -- . [18ms]
+2024-10-04 20:09:18.418 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:18.888 [info] > git add -A -- . [2ms]
+2024-10-04 20:09:18.888 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:19.712 [info] > git add -A -- . [13ms]
+2024-10-04 20:09:19.712 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:20.802 [info] > git add -A -- . [15ms]
+2024-10-04 20:09:20.802 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:20.994 [info] > git add -A -- . [20ms]
+2024-10-04 20:09:20.995 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:22.802 [info] > git add -A -- . [4ms]
+2024-10-04 20:09:22.802 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:24.011 [info] > git add -A -- . [2ms]
+2024-10-04 20:09:24.011 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:25.258 [info] > git add -A -- . [2ms]
+2024-10-04 20:09:25.258 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:28.086 [info] > git add -A -- . [4ms]
+2024-10-04 20:09:28.086 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:28.464 [info] > git add -A -- . [2ms]
+2024-10-04 20:09:28.464 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:32.524 [info] > git add -A -- . [4ms]
+2024-10-04 20:09:32.525 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:33.098 [info] > git add -A -- . [9ms]
+2024-10-04 20:09:33.098 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:33.105 [info] [Git][getRemotes] No remotes found in the git config file
+2024-10-04 20:09:33.107 [info] > git config --get commit.template [5ms]
+2024-10-04 20:09:33.108 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-10-04 20:09:33.109 [warning] [Git][getBranch] No such branch: master
+2024-10-04 20:09:33.117 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-10-04 20:09:33.808 [info] > git status -z -uall [697ms] (cancelled)
+2024-10-04 20:09:37.531 [info] > git add -A -- . [2ms]
+2024-10-04 20:09:37.532 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:09:37.538 [info] [Git][getRemotes] No remotes found in the git config file
+2024-10-04 20:09:37.540 [info] > git config --get commit.template [5ms]
+2024-10-04 20:09:37.541 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-10-04 20:09:37.541 [warning] [Git][getBranch] No such branch: master
+2024-10-04 20:09:37.553 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-10-04 20:09:38.629 [info] > git status -z -uall [1083ms] (cancelled)
+2024-10-04 20:10:01.979 [info] > git fetch [3ms]
+2024-10-04 20:10:01.988 [info] [Git][getRemotes] No remotes found in the git config file
+2024-10-04 20:10:01.988 [info] > git config --get commit.template [5ms]
+2024-10-04 20:10:01.992 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-10-04 20:10:01.992 [warning] [Git][getBranch] No such branch: master
+2024-10-04 20:10:02.000 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-10-04 20:10:02.155 [info] > git add -A -- . [2ms]
+2024-10-04 20:10:02.155 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:10:02.211 [info] > git add -A -- . [3ms]
+2024-10-04 20:10:02.211 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:10:02.417 [info] > git add -A -- . [3ms]
+2024-10-04 20:10:02.418 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:10:02.874 [info] > git add -A -- . [3ms]
+2024-10-04 20:10:02.874 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:10:03.521 [info] > git status -z -uall [1526ms] (cancelled)
+2024-10-04 20:10:04.040 [info] > git add -A -- . [2ms]
+2024-10-04 20:10:04.040 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:10:05.298 [info] > git add -A -- . [5ms]
+2024-10-04 20:10:05.298 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:10:07.104 [info] > git add -A -- . [1ms]
+2024-10-04 20:10:07.104 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:10:09.560 [info] > git add -A -- . [1ms]
+2024-10-04 20:10:09.560 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:10:12.765 [info] > git add -A -- . [2ms]
+2024-10-04 20:10:12.766 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:10:16.821 [info] > git add -A -- . [2ms]
+2024-10-04 20:10:16.821 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:10:21.832 [info] > git add -A -- . [7ms]
+2024-10-04 20:10:21.832 [info] fatal: Unable to create '/teamspace/studios/this_studio/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2024-10-04 20:10:21.838 [info] [Git][getRemotes] No remotes found in the git config file
+2024-10-04 20:10:21.840 [info] > git config --get commit.template [5ms]
+2024-10-04 20:10:21.840 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-10-04 20:10:21.841 [warning] [Git][getBranch] No such branch: master
+2024-10-04 20:10:21.848 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-10-04 20:10:23.089 [info] > git status -z -uall [1246ms] (cancelled)
+2024-10-04 20:13:03.583 [info] > git fetch [61ms]
+2024-10-04 20:13:03.590 [info] > git config --get commit.template [3ms]
+2024-10-04 20:13:03.592 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-04 20:13:03.599 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-10-04 20:13:04.167 [info] > git status -z -uall [573ms] (cancelled)
+2024-10-04 20:13:04.167 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-10-04 20:13:04.191 [info] > git config --local branch.main.vscode-merge-base [19ms]
+2024-10-04 20:13:04.191 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-04 20:13:04.713 [info] > git reflog main --grep-reflog=branch: Created from *. [515ms]
+2024-10-04 20:13:04.719 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [3ms]
+2024-10-04 20:13:04.719 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-10-04 20:13:04.719 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-10-04 20:13:04.724 [info] > git merge-base refs/heads/main refs/remotes/origin/main [3ms]
+2024-10-04 20:13:04.728 [info] > git diff --name-status -z --diff-filter=ADMR 2fe30a9226216be3b9c51c3146dbcfd70611136a...refs/remotes/origin/main [2ms]
+2024-10-04 20:18:28.404 [info] > git fetch [97ms]
+2024-10-04 20:18:28.411 [info] > git config --get commit.template [3ms]
+2024-10-04 20:18:28.412 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-04 20:18:28.420 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-10-04 20:18:29.007 [info] > git status -z -uall [592ms] (cancelled)
+2024-10-04 20:21:29.070 [info] > git fetch [61ms]
+2024-10-04 20:21:29.077 [info] > git config --get commit.template [3ms]
+2024-10-04 20:21:29.079 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-04 20:21:29.086 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-10-04 20:21:29.799 [info] > git status -z -uall [718ms] (cancelled)
+2024-10-04 20:24:29.871 [info] > git fetch [70ms]
+2024-10-04 20:24:29.880 [info] > git config --get commit.template [3ms]
+2024-10-04 20:24:29.882 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-04 20:24:29.890 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-10-04 20:24:31.085 [info] > git status -z -uall [1200ms] (cancelled)
+2024-10-04 20:32:27.537 [info] > git fetch [76ms]
+2024-10-04 20:32:27.549 [info] > git config --get commit.template [5ms]
+2024-10-04 20:32:27.551 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-10-04 20:32:27.560 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-10-04 20:32:28.414 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [4ms]
+2024-10-04 20:32:28.617 [info] > git status -z -uall [1063ms] (cancelled)
+2024-10-04 20:32:39.027 [info] > git check-ignore -v -z --stdin [3ms]
+2024-10-04 20:32:39.930 [info] > git hash-object -t tree /dev/null [3ms]
+2024-10-04 20:32:39.941 [info] > git diff-tree -r --name-status -z --diff-filter=ADMR 4b825dc642cb6eb9a060e54bf8d69288fbee4904 2fe30a9226216be3b9c51c3146dbcfd70611136a [8ms]
+2024-10-04 20:32:40.248 [info] > git show --textconv 4b825dc642cb6eb9a060e54bf8d69288fbee4904:.env [22ms]
+2024-10-04 20:32:40.251 [info] > git show --textconv 2fe30a9226216be3b9c51c3146dbcfd70611136a:.env [19ms]
+2024-10-04 20:32:40.251 [info] > git ls-tree -l 4b825dc642cb6eb9a060e54bf8d69288fbee4904 -- /teamspace/studios/this_studio/.env [12ms]
+2024-10-04 20:32:40.253 [info] > git ls-tree -l 2fe30a9226216be3b9c51c3146dbcfd70611136a -- /teamspace/studios/this_studio/.env [6ms]
+2024-10-04 20:32:40.756 [info] > git check-ignore -v -z --stdin [5ms]
+2024-10-04 20:32:47.100 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2024-10-04 20:33:08.425 [info] > git check-ignore -v -z --stdin [6ms]
+2024-10-04 20:33:27.240 [info] > git ls-tree -l 4b825dc642cb6eb9a060e54bf8d69288fbee4904 -- /teamspace/studios/this_studio/.env [3ms]
+2024-10-04 20:33:27.243 [info] > git ls-tree -l 2fe30a9226216be3b9c51c3146dbcfd70611136a -- /teamspace/studios/this_studio/.env [3ms]
+2024-10-04 20:33:53.651 [info] > git ls-tree -l 4b825dc642cb6eb9a060e54bf8d69288fbee4904 -- /teamspace/studios/this_studio/.env [3ms]
+2024-10-04 20:33:53.654 [info] > git ls-tree -l 2fe30a9226216be3b9c51c3146dbcfd70611136a -- /teamspace/studios/this_studio/.env [3ms]
+2024-10-04 20:33:53.892 [info] > git show --textconv 4b825dc642cb6eb9a060e54bf8d69288fbee4904:.env [3ms]
+2024-10-04 20:33:53.896 [info] > git show --textconv 2fe30a9226216be3b9c51c3146dbcfd70611136a:.env [4ms]
+2024-10-04 20:34:00.384 [info] > git ls-tree -l 4b825dc642cb6eb9a060e54bf8d69288fbee4904 -- /teamspace/studios/this_studio/.env [4ms]
+2024-10-04 20:34:00.392 [info] > git ls-tree -l 2fe30a9226216be3b9c51c3146dbcfd70611136a -- /teamspace/studios/this_studio/.env [8ms]
+2024-10-04 20:34:00.626 [info] > git show --textconv 4b825dc642cb6eb9a060e54bf8d69288fbee4904:.env [4ms]
+2024-10-04 20:34:00.635 [info] > git show --textconv 2fe30a9226216be3b9c51c3146dbcfd70611136a:.env [4ms]
+2024-10-04 20:34:07.193 [info] > git ls-tree -l 4b825dc642cb6eb9a060e54bf8d69288fbee4904 -- /teamspace/studios/this_studio/.env [5ms]
+2024-10-04 20:34:07.197 [info] > git ls-tree -l 2fe30a9226216be3b9c51c3146dbcfd70611136a -- /teamspace/studios/this_studio/.env [4ms]
+2024-10-04 20:34:07.456 [info] > git show --textconv 4b825dc642cb6eb9a060e54bf8d69288fbee4904:.env [3ms]
+2024-10-04 20:34:07.458 [info] > git show --textconv 2fe30a9226216be3b9c51c3146dbcfd70611136a:.env [2ms]
+2024-10-04 20:34:24.607 [info] > git ls-tree -l 4b825dc642cb6eb9a060e54bf8d69288fbee4904 -- /teamspace/studios/this_studio/.env [3ms]
+2024-10-04 20:34:24.609 [info] > git ls-tree -l 2fe30a9226216be3b9c51c3146dbcfd70611136a -- /teamspace/studios/this_studio/.env [2ms]
+2024-10-04 20:34:24.853 [info] > git show --textconv 4b825dc642cb6eb9a060e54bf8d69288fbee4904:.env [4ms]
+2024-10-04 20:34:24.855 [info] > git show --textconv 2fe30a9226216be3b9c51c3146dbcfd70611136a:.env [3ms]
+2024-10-04 20:34:27.864 [info] > git ls-tree -l 4b825dc642cb6eb9a060e54bf8d69288fbee4904 -- /teamspace/studios/this_studio/.env [3ms]
+2024-10-04 20:34:27.866 [info] > git ls-tree -l 2fe30a9226216be3b9c51c3146dbcfd70611136a -- /teamspace/studios/this_studio/.env [2ms]
+2024-10-04 20:34:28.107 [info] > git show --textconv 4b825dc642cb6eb9a060e54bf8d69288fbee4904:.env [3ms]
+2024-10-04 20:34:28.109 [info] > git show --textconv 2fe30a9226216be3b9c51c3146dbcfd70611136a:.env [3ms]
+2024-10-04 20:34:30.556 [info] > git ls-tree -l 4b825dc642cb6eb9a060e54bf8d69288fbee4904 -- /teamspace/studios/this_studio/.env [7ms]
+2024-10-04 20:34:30.558 [info] > git ls-tree -l 2fe30a9226216be3b9c51c3146dbcfd70611136a -- /teamspace/studios/this_studio/.env [3ms]
+2024-10-04 20:34:30.848 [info] > git show --textconv 4b825dc642cb6eb9a060e54bf8d69288fbee4904:.env [5ms]
+2024-10-04 20:34:30.849 [info] > git show --textconv 2fe30a9226216be3b9c51c3146dbcfd70611136a:.env [2ms]
+2024-10-04 20:34:44.545 [info] > git ls-tree -l 4b825dc642cb6eb9a060e54bf8d69288fbee4904 -- /teamspace/studios/this_studio/.env [3ms]
+2024-10-04 20:34:44.547 [info] > git ls-tree -l 2fe30a9226216be3b9c51c3146dbcfd70611136a -- /teamspace/studios/this_studio/.env [3ms]

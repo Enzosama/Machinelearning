@@ -1,0 +1,194 @@
+2024-10-03 16:24:50.475 [info] Extension host with pid 2690 started
+2024-10-03 16:24:50.475 [error] Error: EEXIST: file already exists, open '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/f67e57637d5c94274a0a90e79a73d602/vscode.lock'
+2024-10-03 16:24:50.478 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/f67e57637d5c94274a0a90e79a73d602/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-10-03 16:24:50.490 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/f67e57637d5c94274a0a90e79a73d602/vscode.lock': The pid 2190 appears to be gone.
+2024-10-03 16:24:50.490 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/f67e57637d5c94274a0a90e79a73d602/vscode.lock': Deleting a stale lock.
+2024-10-03 16:24:50.518 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/f67e57637d5c94274a0a90e79a73d602/vscode.lock': Lock acquired.
+2024-10-03 16:24:51.184 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-10-03 16:24:51.608 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-10-03 16:24:51.609 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-10-03 16:24:52.025 [info] Eager extensions activated
+2024-10-03 16:24:52.025 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-03 16:24:52.026 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-03 16:26:22.137 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2024-10-03 16:26:27.199 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-10-03 16:26:27.200 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-03 16:26:28.198 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-10-03 16:26:28.198 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-10-03 17:15:32.128 [warning] DiagnosticCollection with name 'settings' does already exist.
+2024-10-03 17:15:38.175 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onView:dockerContainers'
+2024-10-03 17:19:52.514 [error] Error: LanguageStatusItem with id 'python.analysis.typeCheckingMode' ALREADY exists
+	at c.createLanguageStatusItem (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:161:163942)
+	at Object.createLanguageStatusItem (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:38483)
+	at _0x479bca.createStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:267466)
+	at _0x479bca.updateStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281115)
+	at p (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-10-03 17:19:53.510 [error] Error: Client is not running
+	at P.sendRequest (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:2091911)
+	at Object._0x50f843 [as sendRequest] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:144733)
+	at _0x2c06b0.getConfigInfo (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:270094)
+	at _0x479bca.updateStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281182)
+	at p (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-10-03 18:14:06.106 [error] Error: LanguageStatusItem with id 'python.analysis.typeCheckingMode' ALREADY exists
+	at c.createLanguageStatusItem (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:161:163942)
+	at Object.createLanguageStatusItem (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:38483)
+	at _0x479bca.createStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:267466)
+	at _0x479bca.updateStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281115)
+	at p (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-10-03 18:14:07.107 [error] Error: Client is not running
+	at P.sendRequest (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:2091911)
+	at Object._0x50f843 [as sendRequest] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:144733)
+	at _0x2c06b0.getConfigInfo (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:270094)
+	at _0x479bca.updateStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281182)
+	at p (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-10-03 18:33:09.169 [error] Error: LanguageStatusItem with id 'python.analysis.typeCheckingMode' ALREADY exists
+	at c.createLanguageStatusItem (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:161:163942)
+	at Object.createLanguageStatusItem (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:38483)
+	at _0x479bca.createStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:267466)
+	at _0x479bca.updateStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281115)
+	at p (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-10-03 18:33:10.170 [error] Error: Client is not running
+	at P.sendRequest (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:2091911)
+	at Object._0x50f843 [as sendRequest] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:144733)
+	at _0x2c06b0.getConfigInfo (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:270094)
+	at _0x479bca.updateStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281182)
+	at p (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-10-03 18:33:25.015 [error] Error: LanguageStatusItem with id 'python.analysis.typeCheckingMode' ALREADY exists
+	at c.createLanguageStatusItem (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:161:163942)
+	at Object.createLanguageStatusItem (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:38483)
+	at _0x479bca.createStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:267466)
+	at _0x479bca.updateStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281115)
+	at p (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-10-03 18:33:26.015 [error] Error: Client is not running
+	at P.sendRequest (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:2091911)
+	at Object._0x50f843 [as sendRequest] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:144733)
+	at _0x2c06b0.getConfigInfo (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:270094)
+	at _0x479bca.updateStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281182)
+	at p (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-10-03 18:48:34.815 [warning] DiagnosticCollection with name 'settings' does already exist.
+2024-10-03 18:48:35.065 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:csv'
+2024-10-03 18:48:41.249 [error] Error: LanguageStatusItem with id 'python.analysis.typeCheckingMode' ALREADY exists
+	at c.createLanguageStatusItem (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:161:163942)
+	at Object.createLanguageStatusItem (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:38483)
+	at _0x479bca.createStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:267466)
+	at _0x479bca.updateStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281115)
+	at p (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-10-03 18:48:41.250 [error] Error: LanguageStatusItem with id 'python.analysis.typeCheckingMode' ALREADY exists
+	at c.createLanguageStatusItem (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:161:163942)
+	at Object.createLanguageStatusItem (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:38483)
+	at _0x479bca.createStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:267466)
+	at _0x479bca.updateStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281115)
+	at p (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-10-03 18:48:42.250 [error] Error: Client is not running
+	at P.sendRequest (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:2091911)
+	at Object._0x50f843 [as sendRequest] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:144733)
+	at _0x2c06b0.getConfigInfo (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:270094)
+	at _0x479bca.updateStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281182)
+	at p (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-10-03 18:48:47.361 [error] Error: LanguageStatusItem with id 'python.analysis.typeCheckingMode' ALREADY exists
+	at c.createLanguageStatusItem (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:161:163942)
+	at Object.createLanguageStatusItem (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:38483)
+	at _0x479bca.createStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:267466)
+	at _0x479bca.updateStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281115)
+	at p (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-10-03 18:48:47.363 [error] Error: LanguageStatusItem with id 'python.analysis.typeCheckingMode' ALREADY exists
+	at c.createLanguageStatusItem (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:161:163942)
+	at Object.createLanguageStatusItem (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:38483)
+	at _0x479bca.createStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:267466)
+	at _0x479bca.updateStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281115)
+	at p (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-10-03 18:48:48.362 [error] Error: Client is not running
+	at P.sendRequest (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:2091911)
+	at Object._0x50f843 [as sendRequest] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:144733)
+	at _0x2c06b0.getConfigInfo (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:270094)
+	at _0x479bca.updateStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281182)
+	at p (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-10-03 18:53:11.382 [error] Error: LanguageStatusItem with id 'python.analysis.typeCheckingMode' ALREADY exists
+	at c.createLanguageStatusItem (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:161:163942)
+	at Object.createLanguageStatusItem (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:38483)
+	at _0x479bca.createStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:267466)
+	at _0x479bca.updateStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281115)
+	at p (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-10-03 18:53:11.383 [error] Error: LanguageStatusItem with id 'python.analysis.typeCheckingMode' ALREADY exists
+	at c.createLanguageStatusItem (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:161:163942)
+	at Object.createLanguageStatusItem (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:38483)
+	at _0x479bca.createStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:267466)
+	at _0x479bca.updateStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281115)
+	at p (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-10-03 18:53:12.382 [error] Error: Client is not running
+	at P.sendRequest (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.14.1-linux-x64/out/client/extension.js:2:2091911)
+	at Object._0x50f843 [as sendRequest] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:144733)
+	at _0x2c06b0.getConfigInfo (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:270094)
+	at _0x479bca.updateStatusItem (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/extension.bundle.js:1:281182)
+	at p (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792722)
+	at E (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792929)
+	at Timeout.I [as _onTimeout] (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist/vendor.bundle.js:2:1792831)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-10-03 19:04:03.864 [info] Extension host terminating: renderer disconnected for too long (2)
+2024-10-03 19:04:03.865 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/f67e57637d5c94274a0a90e79a73d602/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-10-03 19:04:03.920 [info] Extension host with pid 2690 exiting with code 0

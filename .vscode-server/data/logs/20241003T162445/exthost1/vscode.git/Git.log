@@ -1,0 +1,199 @@
+2024-10-03 16:24:52.321 [info] [main] Log level: Info
+2024-10-03 16:24:52.321 [info] [main] Validating found git in: "git"
+2024-10-03 16:24:52.321 [info] [main] Using git "2.42.0" from "git"
+2024-10-03 16:24:52.321 [info] [Model][doInitialScan] Initial repository scan started
+2024-10-03 16:24:52.321 [info] > git rev-parse --show-toplevel [23ms]
+2024-10-03 16:24:52.321 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 16:24:52.321 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-03 16:24:52.321 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 16:24:52.321 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-03 16:24:52.321 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 16:24:52.321 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-03 16:24:52.321 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 16:24:52.321 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-03 16:24:52.321 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 16:24:52.321 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-03 16:24:52.321 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 16:24:52.321 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-03 16:24:52.321 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 16:24:52.321 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-03 16:24:52.321 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 16:24:52.321 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-03 16:24:52.321 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 16:24:52.321 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-03 16:24:52.321 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 16:24:52.321 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-03 16:24:52.321 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 16:24:52.321 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-10-03 16:28:00.153 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-03 16:28:00.154 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 16:30:40.820 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-03 16:30:40.820 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 16:33:44.451 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-03 16:33:44.451 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 16:34:12.521 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-03 16:34:12.522 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 17:15:29.915 [info] > git rev-parse --show-toplevel [4ms]
+2024-10-03 17:15:29.916 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 17:15:29.922 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-03 17:15:29.922 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 17:15:29.928 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-03 17:15:29.928 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 17:15:29.932 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-03 17:15:29.933 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 17:15:32.118 [info] > git rev-parse --show-toplevel [7ms]
+2024-10-03 17:15:32.118 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 17:19:52.023 [info] > git rev-parse --show-toplevel [8ms]
+2024-10-03 17:19:52.025 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 17:38:12.559 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-03 17:38:12.565 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-10-03 17:38:12.575 [info] [Model][openRepository] Opened repository: /teamspace/studios/this_studio/ChatGPT
+2024-10-03 17:38:12.583 [info] > git config --get commit.template [4ms]
+2024-10-03 17:38:12.585 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-03 17:38:12.587 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/teamspace/studios/this_studio/ChatGPT/.git/refs/remotes/origin/main'
+2024-10-03 17:38:12.590 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-03 17:38:12.597 [info] > git status -z -uall [5ms]
+2024-10-03 17:38:12.605 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-10-03 17:38:12.608 [info] > git config --get commit.template [3ms]
+2024-10-03 17:38:12.611 [info] > git config --local branch.main.vscode-merge-base [3ms]
+2024-10-03 17:38:12.611 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-03 17:38:12.613 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-03 17:38:12.615 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/teamspace/studios/this_studio/ChatGPT/.git/refs/remotes/origin/main'
+2024-10-03 17:38:12.615 [info] > git reflog main --grep-reflog=branch: Created from *. [2ms]
+2024-10-03 17:38:12.618 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-10-03 17:38:12.620 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [3ms]
+2024-10-03 17:38:12.622 [info] > git status -z -uall [3ms]
+2024-10-03 17:38:12.628 [info] > git fetch [53ms]
+2024-10-03 17:38:12.629 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [7ms]
+2024-10-03 17:38:12.634 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-10-03 17:38:12.637 [info] > git config --get commit.template [4ms]
+2024-10-03 17:38:12.637 [info] > git config --local branch.main.vscode-merge-base origin/main [6ms]
+2024-10-03 17:38:12.642 [info] > git config --get commit.template [3ms]
+2024-10-03 17:38:12.642 [info] > git config --local branch.main.vscode-merge-base [6ms]
+2024-10-03 17:38:12.647 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-10-03 17:38:12.647 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2024-10-03 17:38:12.651 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/teamspace/studios/this_studio/ChatGPT/.git/refs/remotes/origin/main'
+2024-10-03 17:38:12.652 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-10-03 17:38:12.654 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/teamspace/studios/this_studio/ChatGPT/.git/refs/remotes/origin/main'
+2024-10-03 17:38:12.654 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-10-03 17:38:12.655 [info] > git merge-base refs/heads/main refs/remotes/origin/main [5ms]
+2024-10-03 17:38:12.658 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-10-03 17:38:12.660 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [3ms]
+2024-10-03 17:38:12.663 [info] > git status -z -uall [4ms]
+2024-10-03 17:38:12.666 [info] > git diff --name-status -z --diff-filter=ADMR e02bc493a105be9407df8e9398b195912f8b3716...refs/remotes/origin/main [4ms]
+2024-10-03 17:38:12.667 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-03 17:38:12.671 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-10-03 17:38:12.675 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2024-10-03 17:38:13.762 [info] > git check-ignore -v -z --stdin [2ms]
+2024-10-03 17:38:13.998 [info] > git config --get commit.template [3ms]
+2024-10-03 17:38:14.000 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-03 17:38:14.003 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/teamspace/studios/this_studio/ChatGPT/.git/refs/remotes/origin/main'
+2024-10-03 17:38:14.005 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-10-03 17:38:14.011 [info] > git status -z -uall [4ms]
+2024-10-03 17:38:14.017 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-03 17:38:14.021 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-10-03 17:38:14.026 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2024-10-03 17:38:18.132 [info] > git check-ignore -v -z --stdin [4ms]
+2024-10-03 17:41:15.949 [info] > git fetch [77ms]
+2024-10-03 17:41:15.957 [info] > git config --get commit.template [4ms]
+2024-10-03 17:41:15.960 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-03 17:41:15.963 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/teamspace/studios/this_studio/ChatGPT/.git/refs/remotes/origin/main'
+2024-10-03 17:41:15.965 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-03 17:41:15.983 [info] > git status -z -uall [16ms]
+2024-10-03 17:41:15.990 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-03 17:41:15.996 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-10-03 17:41:16.000 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2024-10-03 17:41:17.240 [info] > git config --get commit.template [3ms]
+2024-10-03 17:41:17.242 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-03 17:41:17.245 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/teamspace/studios/this_studio/ChatGPT/.git/refs/remotes/origin/main'
+2024-10-03 17:41:17.247 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-03 17:41:17.254 [info] > git status -z -uall [4ms]
+2024-10-03 17:41:17.260 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-03 17:41:17.265 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-10-03 17:41:17.271 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2024-10-03 17:44:16.060 [info] > git fetch [68ms]
+2024-10-03 17:44:16.067 [info] > git config --get commit.template [3ms]
+2024-10-03 17:44:16.069 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-03 17:44:16.072 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/teamspace/studios/this_studio/ChatGPT/.git/refs/remotes/origin/main'
+2024-10-03 17:44:16.075 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-10-03 17:44:16.080 [info] > git status -z -uall [3ms]
+2024-10-03 17:44:16.085 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-03 17:44:16.089 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-10-03 17:44:16.094 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2024-10-03 17:44:17.361 [info] > git config --get commit.template [4ms]
+2024-10-03 17:44:17.364 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-03 17:44:17.366 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/teamspace/studios/this_studio/ChatGPT/.git/refs/remotes/origin/main'
+2024-10-03 17:44:17.369 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-03 17:44:17.375 [info] > git status -z -uall [3ms]
+2024-10-03 17:44:17.380 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-03 17:44:17.385 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-10-03 17:44:17.392 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [4ms]
+2024-10-03 18:14:05.537 [info] > git fetch [122ms]
+2024-10-03 18:14:05.549 [info] > git config --get commit.template [7ms]
+2024-10-03 18:14:05.555 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2024-10-03 18:14:05.585 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/teamspace/studios/this_studio/ChatGPT/.git/refs/remotes/origin/main'
+2024-10-03 18:14:05.585 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2024-10-03 18:14:05.593 [info] > git status -z -uall [5ms]
+2024-10-03 18:14:05.599 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-03 18:14:05.610 [info] > git config --local branch.main.vscode-merge-base [7ms]
+2024-10-03 18:14:05.613 [info] > git rev-parse --show-toplevel [4ms]
+2024-10-03 18:14:05.613 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 18:14:05.615 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2024-10-03 18:14:06.936 [info] > git config --get commit.template [3ms]
+2024-10-03 18:14:06.938 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-03 18:14:06.941 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/teamspace/studios/this_studio/ChatGPT/.git/refs/remotes/origin/main'
+2024-10-03 18:14:06.943 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-03 18:14:06.949 [info] > git status -z -uall [4ms]
+2024-10-03 18:14:06.954 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-03 18:14:06.958 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-10-03 18:14:06.963 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [3ms]
+2024-10-03 18:16:57.925 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/teamspace/studios/this_studio/ChatGPT/.git/HEAD'
+2024-10-03 18:16:57.930 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/teamspace/studios/this_studio/ChatGPT/.git/config'
+2024-10-03 18:16:57.936 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/teamspace/studios/this_studio/ChatGPT/.git/HEAD'
+2024-10-03 18:16:57.960 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/teamspace/studios/this_studio/ChatGPT/.git/config'
+2024-10-03 18:33:08.676 [info] > git rev-parse --show-toplevel [4ms]
+2024-10-03 18:33:08.677 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 18:33:24.523 [info] > git rev-parse --show-toplevel [6ms]
+2024-10-03 18:33:24.523 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 18:48:27.171 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-03 18:48:27.172 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 18:48:34.793 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-03 18:48:34.795 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 18:48:37.209 [info] > git rev-parse --show-toplevel [13ms]
+2024-10-03 18:48:37.210 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 18:48:40.754 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-03 18:48:40.754 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 18:48:46.866 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-03 18:48:46.867 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-03 18:53:10.890 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-03 18:53:10.891 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

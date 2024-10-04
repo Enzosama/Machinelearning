@@ -1,0 +1,36 @@
+2024-10-03 19:00:08.948 [info] [Info  - 7:00:08 PM] (32839) Server root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-03 19:00:08.949 [info] [Info  - 7:00:08 PM] (32839) Pylance language server 2024.9.2 (pyright version 1.1.378, commit ce64adc1) starting
+2024-10-03 19:00:08.949 [info] [Info  - 7:00:08 PM] (32839) Starting service instance "this_studio"
+2024-10-03 19:00:08.975 [info] [Info  - 7:00:08 PM] (32839) Setting environmentName for service "this_studio": "3.10.10 (cloudspace conda)"
+2024-10-03 19:00:08.975 [info] [Info  - 7:00:08 PM] (32839) Setting pythonPath for service "this_studio": "/home/zeus/miniconda3/envs/cloudspace/bin/python"
+2024-10-03 19:00:08.976 [info] [Info  - 7:00:08 PM] (32839) No include entries specified; assuming /teamspace/studios/this_studio
+2024-10-03 19:00:08.977 [info] [Info  - 7:00:08 PM] (32839) Auto-excluding **/node_modules
+2024-10-03 19:00:08.977 [info] [Info  - 7:00:08 PM] (32839) Auto-excluding **/__pycache__
+2024-10-03 19:00:08.977 [info] [Info  - 7:00:08 PM] (32839) Auto-excluding **/.*
+2024-10-03 19:00:08.998 [info] [Info  - 7:00:08 PM] (32839) Assuming Python version 3.10.10.final.0
+2024-10-03 19:00:09.253 [info] [Info  - 7:00:09 PM] (32839) Found 2 source files
+2024-10-03 19:00:09.654 [info] [Info  - 7:00:09 PM] (32839) Background analysis(1) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-03 19:00:09.655 [info] [Info  - 7:00:09 PM] (32839) Background analysis(1) started
+2024-10-03 19:00:09.846 [info] [Info  - 7:00:09 PM] (32839) Indexer background runner(2) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist (index)
+2024-10-03 19:00:09.846 [info] [Info  - 7:00:09 PM] (32839) Indexing(2) started
+2024-10-03 19:00:13.875 [info] [Info  - 7:00:13 PM] (32839) [IDX(2)] Long operation: scan packages file:///teamspace/studios/this_studio (2826ms)
+2024-10-03 19:00:13.876 [info] [Info  - 7:00:13 PM] (32839) scanned(2) 404 files over 1 exec env
+2024-10-03 19:00:14.613 [info] [Info  - 7:00:14 PM] (32839) indexed(2) 323 files over 1 exec env
+2024-10-03 19:00:14.944 [info] [Info  - 7:00:14 PM] (32839) Indexing finished(2).
+2024-10-03 19:00:16.111 [info] [Info  - 7:00:16 PM] (32839) [BG(1)] Long operation: checking: file:///teamspace/studios/this_studio/main.py (3571ms)
+2024-10-03 19:00:16.112 [info] [Info  - 7:00:16 PM] (32839) [BG(1)] Long operation: analyzing: file:///teamspace/studios/this_studio/main.py (3571ms)
+2024-10-03 19:00:19.769 [info] (Client) The existing extension didn't exit within 10 seconds. New instance will start, but you might encounter issues.
+2024-10-03 19:00:19.770 [info] (Client) Pylance async client (2024.9.2) started with python extension (2024.14.1)
+2024-10-03 19:14:14.020 [info] [Info  - 7:14:14 PM] (32839) Starting service instance "<default>"
+2024-10-03 19:14:14.046 [info] [Info  - 7:14:14 PM] (32839) Setting environmentName for service "<default>": "3.10.10 (cloudspace conda)"
+2024-10-03 19:14:14.047 [info] [Info  - 7:14:14 PM] (32839) Setting pythonPath for service "<default>": "/home/zeus/miniconda3/envs/cloudspace/bin/python"
+2024-10-03 19:14:14.047 [info] [Info  - 7:14:14 PM] (32839) No include entries specified; assuming /<default workspace root>
+2024-10-03 19:14:14.047 [info] [Info  - 7:14:14 PM] (32839) Auto-excluding **/node_modules
+2024-10-03 19:14:14.047 [info] [Info  - 7:14:14 PM] (32839) Auto-excluding **/__pycache__
+2024-10-03 19:14:14.048 [info] [Info  - 7:14:14 PM] (32839) Auto-excluding **/.*
+2024-10-03 19:14:14.075 [info] [Info  - 7:14:14 PM] (32839) Assuming Python version 3.10.10.final.0
+2024-10-03 19:14:14.422 [info] [Error - 7:14:14 PM] (32839) File or directory "/<default workspace root>" does not exist.
+2024-10-03 19:14:14.423 [info] [Info  - 7:14:14 PM] (32839) No source files found.
+2024-10-03 19:14:14.773 [info] [Info  - 7:14:14 PM] (32839) Background analysis(3) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-03 19:14:14.774 [info] [Info  - 7:14:14 PM] (32839) Background analysis(3) started
+2024-10-03 19:17:01.728 [info] [Error - 7:17:01 PM] (32839) Error reading settings: TypeError: Cannot set properties of undefined (setting 'strictListInference')

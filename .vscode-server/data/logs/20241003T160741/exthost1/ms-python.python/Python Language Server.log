@@ -1,0 +1,38 @@
+2024-10-03 16:08:43.343 [info] (Client) Pylance async client (2024.9.2) started with python extension (2024.14.1)
+2024-10-03 16:08:43.774 [info] [Info  - 4:08:43 PM] (3451) Server root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-03 16:08:43.775 [info] [Info  - 4:08:43 PM] (3451) Pylance language server 2024.9.2 (pyright version 1.1.378, commit ce64adc1) starting
+2024-10-03 16:08:43.775 [info] [Info  - 4:08:43 PM] (3451) Starting service instance "this_studio"
+2024-10-03 16:08:43.827 [info] [Info  - 4:08:43 PM] (3451) Setting environmentName for service "this_studio": "3.10.10 (cloudspace conda)"
+2024-10-03 16:08:43.828 [info] [Info  - 4:08:43 PM] (3451) Setting pythonPath for service "this_studio": "/home/zeus/miniconda3/envs/cloudspace/bin/python"
+2024-10-03 16:08:43.829 [info] [Info  - 4:08:43 PM] (3451) No include entries specified; assuming /teamspace/studios/this_studio
+2024-10-03 16:08:43.829 [info] [Info  - 4:08:43 PM] (3451) Auto-excluding **/node_modules
+2024-10-03 16:08:43.830 [info] [Info  - 4:08:43 PM] (3451) Auto-excluding **/__pycache__
+2024-10-03 16:08:43.830 [info] [Info  - 4:08:43 PM] (3451) Auto-excluding **/.*
+2024-10-03 16:08:43.855 [info] [Info  - 4:08:43 PM] (3451) Assuming Python version 3.10.10.final.0
+2024-10-03 16:08:43.962 [info] [Info  - 4:08:43 PM] (3451) Found 1 source file
+2024-10-03 16:08:44.150 [info] [Info  - 4:08:44 PM] (3451) Background analysis(1) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-03 16:08:44.153 [info] [Info  - 4:08:44 PM] (3451) Background analysis(1) started
+2024-10-03 16:08:44.471 [info] [Info  - 4:08:44 PM] (3451) Indexer background runner(2) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist (index)
+2024-10-03 16:08:44.473 [info] [Info  - 4:08:44 PM] (3451) Indexing(2) started
+2024-10-03 16:08:45.221 [info] [Info  - 4:08:45 PM] (3451) scanned(2) 352 files over 1 exec env
+2024-10-03 16:08:49.926 [info] [Info  - 4:08:49 PM] (3451) [IDX(2)] Long operation: index execution environment file:///teamspace/studios/this_studio (4442ms)
+2024-10-03 16:08:49.952 [info] [Info  - 4:08:49 PM] (3451) [IDX(2)] Long operation: index packages file:///teamspace/studios/this_studio (4477ms)
+2024-10-03 16:08:49.952 [info] [Info  - 4:08:49 PM] (3451) indexed(2) 284 files over 1 exec env
+2024-10-03 16:08:50.073 [info] [Info  - 4:08:50 PM] (3451) Indexing finished(2).
+2024-10-03 16:09:01.512 [info] [Info  - 4:09:01 PM] (3451) Indexer background runner(3) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist (refresh)
+2024-10-03 16:09:01.512 [info] [Info  - 4:09:01 PM] (3451) Indexing(3) started
+2024-10-03 16:09:02.146 [info] [Info  - 4:09:02 PM] (3451) scanned(3) 365 files over 1 exec env
+2024-10-03 16:09:03.137 [info] [Info  - 4:09:03 PM] (3451) indexed(3) 292 files over 1 exec env
+2024-10-03 16:09:03.256 [info] [Info  - 4:09:03 PM] (3451) Indexing finished(3).
+2024-10-03 16:09:36.458 [info] [Info  - 4:09:36 PM] (3451) Indexer background runner(4) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist (refresh)
+2024-10-03 16:09:36.460 [info] [Info  - 4:09:36 PM] (3451) Indexing(4) started
+2024-10-03 16:09:36.976 [info] [Info  - 4:09:36 PM] (3451) scanned(4) 366 files over 1 exec env
+2024-10-03 16:09:37.269 [info] [Info  - 4:09:37 PM] (3451) indexed(4) 292 files over 1 exec env
+2024-10-03 16:09:37.372 [info] [Info  - 4:09:37 PM] (3451) Indexing finished(4).
+2024-10-03 16:10:22.217 [info] [Info  - 4:10:22 PM] (3451) Indexer background runner(5) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist (refresh)
+2024-10-03 16:10:22.218 [info] [Info  - 4:10:22 PM] (3451) Indexing(5) started
+2024-10-03 16:10:22.781 [info] [Info  - 4:10:22 PM] (3451) scanned(5) 379 files over 1 exec env
+2024-10-03 16:10:23.695 [info] [Info  - 4:10:23 PM] (3451) indexed(5) 304 files over 1 exec env
+2024-10-03 16:10:23.790 [info] [Info  - 4:10:23 PM] (3451) Indexing finished(5).
+2024-10-03 16:14:17.827 [info] [Info  - 4:14:17 PM] (3451) Found 1 source file
+2024-10-03 16:14:38.502 [info] [Info  - 4:14:38 PM] (3451) Found 1 source file

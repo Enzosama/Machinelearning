@@ -1,0 +1,284 @@
+2024-10-03 18:59:07.250 [info] Extension host with pid 30582 started
+2024-10-03 18:59:07.250 [error] Error: EEXIST: file already exists, open '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/f67e57637d5c94274a0a90e79a73d602/vscode.lock'
+2024-10-03 18:59:07.254 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/f67e57637d5c94274a0a90e79a73d602/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-10-03 18:59:07.260 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/f67e57637d5c94274a0a90e79a73d602/vscode.lock': The lock does not look stale, elapsed: 645 ms, giving up.
+2024-10-03 18:59:07.277 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/f67e57637d5c94274a0a90e79a73d602-1/vscode.lock': Lock acquired.
+2024-10-03 18:59:08.220 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-10-03 18:59:08.221 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-03 18:59:08.222 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-10-03 18:59:08.222 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-10-03 18:59:08.222 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-10-03 18:59:09.314 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-10-03 18:59:09.315 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-10-03 18:59:13.187 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-10-03 18:59:13.189 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-10-03 18:59:13.502 [info] Eager extensions activated
+2024-10-03 18:59:13.503 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-03 18:59:13.503 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-03 18:59:13.636 [info] Extension host terminating: received terminate message from renderer
+2024-10-03 18:59:13.639 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/f67e57637d5c94274a0a90e79a73d602-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-10-03 18:59:13.654 [error] Canceled: Canceled
+	at Object.f [as $0] (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2406
+	at Array.forEach (<anonymous>)
+	at y.dispose (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2344)
+	at m.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:167:8389)
+	at $.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:1513)
+	at n (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:10613)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:8581)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at a.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:14463)
+	at h.A (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:17622)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:15980)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at m.acceptChunk (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:12209)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:11479
+	at Socket.b (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:181:14623)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-10-03 18:59:13.655 [error] Canceled: Canceled
+	at Object.f [as $0] (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2406
+	at Array.forEach (<anonymous>)
+	at y.dispose (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2344)
+	at m.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:167:8389)
+	at $.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:1513)
+	at n (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:10613)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:8581)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at a.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:14463)
+	at h.A (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:17622)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:15980)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at m.acceptChunk (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:12209)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:11479
+	at Socket.b (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:181:14623)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-10-03 18:59:13.655 [error] Canceled: Canceled
+	at Object.f [as $0] (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2406
+	at Array.forEach (<anonymous>)
+	at y.dispose (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2344)
+	at m.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:167:8389)
+	at $.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:1513)
+	at n (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:10613)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:8581)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at a.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:14463)
+	at h.A (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:17622)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:15980)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at m.acceptChunk (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:12209)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:11479
+	at Socket.b (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:181:14623)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-10-03 18:59:13.656 [error] Canceled: Canceled
+	at Object.f [as $0] (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2406
+	at Array.forEach (<anonymous>)
+	at y.dispose (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2344)
+	at m.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:167:8389)
+	at $.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:1513)
+	at n (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:10613)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:8581)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at a.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:14463)
+	at h.A (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:17622)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:15980)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at m.acceptChunk (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:12209)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:11479
+	at Socket.b (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:181:14623)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-10-03 18:59:13.656 [error] Canceled: Canceled
+	at Object.f [as $0] (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2406
+	at Array.forEach (<anonymous>)
+	at y.dispose (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2344)
+	at m.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:167:8389)
+	at $.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:1513)
+	at n (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:10613)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:8581)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at a.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:14463)
+	at h.A (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:17622)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:15980)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at m.acceptChunk (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:12209)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:11479
+	at Socket.b (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:181:14623)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-10-03 18:59:13.657 [error] Canceled: Canceled
+	at Object.f [as $0] (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2406
+	at Array.forEach (<anonymous>)
+	at y.dispose (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2344)
+	at m.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:167:8389)
+	at $.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:1513)
+	at n (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:10613)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:8581)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at a.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:14463)
+	at h.A (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:17622)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:15980)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at m.acceptChunk (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:12209)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:11479
+	at Socket.b (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:181:14623)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-10-03 18:59:13.658 [error] Canceled: Canceled
+	at Object.f [as $0] (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2406
+	at Array.forEach (<anonymous>)
+	at y.dispose (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2344)
+	at m.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:167:8389)
+	at $.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:1513)
+	at n (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:10613)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:8581)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at a.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:14463)
+	at h.A (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:17622)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:15980)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at m.acceptChunk (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:12209)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:11479
+	at Socket.b (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:181:14623)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-10-03 18:59:13.658 [error] Canceled: Canceled
+	at Object.f [as $0] (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2406
+	at Array.forEach (<anonymous>)
+	at y.dispose (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2344)
+	at m.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:167:8389)
+	at $.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:1513)
+	at n (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:10613)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:8581)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at a.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:14463)
+	at h.A (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:17622)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:15980)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at m.acceptChunk (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:12209)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:11479
+	at Socket.b (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:181:14623)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-10-03 18:59:13.658 [error] Canceled: Canceled
+	at Object.f [as $0] (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2406
+	at Array.forEach (<anonymous>)
+	at y.dispose (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2344)
+	at m.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:167:8389)
+	at $.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:1513)
+	at n (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:10613)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:8581)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at a.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:14463)
+	at h.A (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:17622)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:15980)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at m.acceptChunk (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:12209)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:11479
+	at Socket.b (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:181:14623)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-10-03 18:59:13.658 [error] Canceled: Canceled
+	at Object.f [as $0] (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2406
+	at Array.forEach (<anonymous>)
+	at y.dispose (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2344)
+	at m.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:167:8389)
+	at $.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:1513)
+	at n (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:10613)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:8581)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at a.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:14463)
+	at h.A (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:17622)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:15980)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at m.acceptChunk (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:12209)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:11479
+	at Socket.b (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:181:14623)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-10-03 18:59:13.659 [error] Canceled: Canceled
+	at Object.f [as $0] (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2406
+	at Array.forEach (<anonymous>)
+	at y.dispose (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:158:2344)
+	at m.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:167:8389)
+	at $.terminate (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:171:1513)
+	at n (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:10613)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:184:8581)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at a.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:14463)
+	at h.A (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:17622)
+	at i.value (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:15980)
+	at r.B (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:732)
+	at r.fire (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:90:949)
+	at m.acceptChunk (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:12209)
+	at /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:115:11479
+	at Socket.b (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/server/out/vs/workbench/api/node/extensionHostProcess.js:181:14623)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-10-03 18:59:13.661 [info] Extension host with pid 30582 exiting with code 0
